@@ -2,7 +2,7 @@ import NavButton from "../components/NavButton";
 
 export default function PageThree() {
   return (
-    <div className="page page-three" style={{ backgroundImage: 'url(/src/assets/her-photos/photo15.jpeg)' }}>
+    <div className="page page-three" style={{ backgroundImage: 'url(/her-photos/photo15.jpeg)' }}>
       <div className="page-overlay"></div>
 
       <div className="content-wrapper">

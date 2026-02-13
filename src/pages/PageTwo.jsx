@@ -19,7 +19,7 @@ export default function PageTwo() {
   };
 
   return (
-    <div className="page page-two" style={{ backgroundImage: 'url(/src/assets/her-photos/photo13.jpeg)' }}>
+    <div className="page page-two" style={{ backgroundImage: 'url(/her-photos/photo13.jpeg)' }}>
       <div className="page-overlay"></div>
 
       <h2>Why I Love My Cutuuuuu Babbbbyyyyy 💖</h2>

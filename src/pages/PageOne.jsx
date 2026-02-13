@@ -5,7 +5,7 @@ export default function PageOne() {
     <div className="page page-one">
       <h2>Our Pyallluuuu Story Babbbbyyyy 😍😍😍😍😍 💕</h2>
 
-      <div className="story-container" style={{ backgroundImage: 'url(/src/assets/her-photos/photo14.jpeg)' }}>
+      <div className="story-container" style={{ backgroundImage: 'url(/her-photos/photo14.jpeg)' }}>
         <div className="story-overlay">
           <p className="story-text">
             From the first message to every late-night call bbbbaaabbbyyyy…

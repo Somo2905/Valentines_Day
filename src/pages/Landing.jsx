@@ -5,7 +5,7 @@ import NavButton from "../components/NavButton";
 export default function Landing() {
   // Import photos 1-12
   const photos = Array.from({ length: 12 }, (_, i) =>
-    `/src/assets/her-photos/photo${i + 1}.jpeg`
+    `/her-photos/photo${i + 1}.jpeg`
   );
 
   const [selectedIndex, setSelectedIndex] = useState(null);
